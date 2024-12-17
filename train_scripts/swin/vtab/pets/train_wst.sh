@@ -1,0 +1,15 @@
+CUDA_VISIBLE_DEVICES=0 python train_swin_vtab.py \
+  --data_dir /path/to/vtab-1k \
+  --dataset pets \
+  --model swin_base_patch4_window7_224_in22k \
+  --batch_size 32 \
+  --batch_size_test 256 \
+  --epochs 100 \
+  --warmup_epochs 10 \
+  --r 4 \
+  --scale 1.0 \
+  --weight_decay 0.05 \
+  --lr 0.001 \
+  --drop_path 0.2 \
+  --amp \
+  --prefetcher

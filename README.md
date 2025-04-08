@@ -71,7 +71,7 @@ The code is built upon `timm`, `WaveVIT`, `VPT`, `NOAH` and `DTL`.
 
 `References:` 
 
-`WaveViT: Yao, T.; Pan, Y.; Li, Y.; Ngo, C.-W.; and Mei, T. 2022. Wavevit: Unifying wavelet and transformers for visual representation learning. In European Conference on Computer Vision, 328鈥?345. Springer.`
+`WaveViT: Yao, T.; Pan, Y.; Li, Y.; Ngo, C.-W.; and Mei, T. 2022. Wavevit: Unifying wavelet and transformers for visual representation learning. In European Conference on Computer Vision, 328-345. Springer.`
 
 `VPT: Jia, M.; Tang, L.; Chen, B.-C.; Cardie, C.; Belongie, S.; Hariharan, B.; and Lim, S.-N. 2022. Visual prompt tuning. In European Conference on Computer Vision, 709-727. Springer.`
 

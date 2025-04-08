@@ -36,7 +36,7 @@ Please refer to `VPT` or `NOAH` to construct VTAB-1K data benchmark.
 
 `References:` 
 
-`VPT: Jia, M.; Tang, L.; Chen, B.-C.; Cardie, C.; Belongie, S.; Hariharan, B.; and Lim, S.-N. 2022. Visual prompt tuning. In European Conference on Computer Vision, 709鈥?727. Springer.`
+`VPT: Jia, M.; Tang, L.; Chen, B.-C.; Cardie, C.; Belongie, S.; Hariharan, B.; and Lim, S.-N. 2022. Visual prompt tuning. In European Conference on Computer Vision, 709-727. Springer.`
 
 `NOAH: Zhang, Y.; Zhou, K.; and Liu, Z. 2024. Neural prompt search. IEEE Transactions on Pattern Analysis and Machine Intelligence.`
 
@@ -71,10 +71,10 @@ The code is built upon `timm`, `WaveVIT`, `VPT`, `NOAH` and `DTL`.
 
 `References:` 
 
-`WaveViT: Yao, T.; Pan, Y.; Li, Y.; Ngo, C.-W.; and Mei, T. 2022. Wavevit: Unifying wavelet and transformers for visual representation learning. In European Conference on Computer Vision, 328鈥?345. Springer.`
+`WaveViT: Yao, T.; Pan, Y.; Li, Y.; Ngo, C.-W.; and Mei, T. 2022. Wavevit: Unifying wavelet and transformers for visual representation learning. In European Conference on Computer Vision, 328鈥?345. Springer.`
 
-`VPT: Jia, M.; Tang, L.; Chen, B.-C.; Cardie, C.; Belongie, S.; Hariharan, B.; and Lim, S.-N. 2022. Visual prompt tuning. In European Conference on Computer Vision, 709鈥?727. Springer.`
+`VPT: Jia, M.; Tang, L.; Chen, B.-C.; Cardie, C.; Belongie, S.; Hariharan, B.; and Lim, S.-N. 2022. Visual prompt tuning. In European Conference on Computer Vision, 709-727. Springer.`
 
 `NOAH: Zhang, Y.; Zhou, K.; and Liu, Z. 2024. Neural prompt search. IEEE Transactions on Pattern Analysis and Machine Intelligence.`
 
-`DTL: Fu, M.; Zhu, K.; and Wu, J. 2024. Dtl: Disentangled transfer learning for visual recognition. In Proceedings of the AAAI Conference on Artificial Intelligence, volume 38, 12082鈥?12090.`
+`DTL: Fu, M.; Zhu, K.; and Wu, J. 2024. Dtl: Disentangled transfer learning for visual recognition. In Proceedings of the AAAI Conference on Artificial Intelligence, volume 38, 12082-12090.`

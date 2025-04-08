@@ -64,7 +64,8 @@ bash train_scripts/vit/vtab/$DATASET_NAME/train_wst.sh
 ```
 - Replace `DATASET_NAME` with the name you want for your dataset.
 - Update the `data_dir` and `load_path` variables in the script to your specified `vtab-1k` path and `ViT-B pre-trained model` path.
-The example file has been uploaded (caltech101 and dtd).
+- The hyperparameters such as 'scale', 'lr', 'drop_path' are needed to be tuned.
+- The example files have been uploaded (caltech101 and dtd).
 ### Acknowledgement
 The code is built upon `timm`, `WaveVIT`, `VPT`, `NOAH` and `DTL`.
 
